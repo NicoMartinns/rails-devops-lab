@@ -1,28 +1,15 @@
-<<<<<<< HEAD
-# rails-devops-lab
-=======
-# README
+# Ruby on Rails - Scaffold CRUD + PostgreSQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto criado para testes e estudos em Ruby on Rails, com foco em Docker, pipelines de CI/CD e deploy em Kubernetes (K8s).
 
-Things you may want to cover:
+O objetivo é montar um ambiente completo para praticar:
 
-* Ruby version
+- Criação de Dockerfile otimizado
 
-* System dependencies
+- Execução de um CRUD simples via scaffold
 
-* Configuration
+- Integração com PostgreSQL
 
-* Database creation
+- Construção de pipeline CI/CD
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
->>>>>>> 17a92e1 (commit inicial)
+- Deploy da aplicação em Kubernetes
